@@ -7,7 +7,7 @@ functions (NIF)-based 3D geometry representation. It aims to accelerate research
 providing a modular design that allows for easy extension and combination of NIF-related
 components, as well as readily available paper implementations and dataset loaders.
 
-As of June 2021, the following implementations are supported:
+As of August 2021, the following implementations are supported:
 
 - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis (Mildenhall et al., 2020)](https://arxiv.org/abs/2003.08934)
 - [Convolutional Occupancy Networks (Peng et al., 2020)](https://arxiv.org/abs/2003.04618)
