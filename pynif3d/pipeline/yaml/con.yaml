@@ -1,0 +1,21 @@
+shapenet_grid_32x32x32:
+  url: "https://drive.google.com/u/0/uc?id=1ZXpN6n-fdvxkDV-D3_KI_pJLUrBCmKd1"
+  md5: ""
+shapenet_plane_1x64:
+  url: "https://drive.google.com/u/0/uc?id=1Lq6z4fl149qhC284AaS26JNbz7eL3MLd"
+  md5: ""
+shapenet_plane_3x64:
+  url: "https://drive.google.com/u/0/uc?id=1kbaecX9C27xWo741u69NGfD8xUdQdjHS"
+  md5: ""
+synthetic_room_grid_64x64x64x32:
+  url: "https://drive.google.com/u/0/uc?id=1hWM78lPbPbYV5-BV0FMEugFK8obYCWko"
+  md5: ""
+synthetic_room_plane_3x64x64:
+  url: "https://drive.google.com/u/0/uc?id=1pNrRBpzjOs5XFAADmmMxWa5exfQCr2q3"
+  md5: ""
+synthetic_room_plane_3x128x128:
+  url: "https://drive.google.com/u/0/uc?id=1J8ba4YAUqBvQOWs6ay2LbFj8AeVGp6pE"
+  md5: ""
+synthetic_room_plane_3x256x256x64:
+  url: "https://drive.google.com/u/0/uc?id=1ShXatQ4DHsP4lw8L6vifzu1W214T41XN"
+  md5: ""

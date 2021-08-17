@@ -1,0 +1,16 @@
+configs {
+    key: "pynif3d"
+    value {
+        requirement {
+            cpu: 8
+            memory: 32
+            disk: 16
+            gpu: 1
+            image: "imosci"
+        }
+        time_limit {
+            seconds: 1800
+        }
+        command: "bash .pfnci/run_all.bash"
+    }
+}
