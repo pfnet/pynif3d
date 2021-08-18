@@ -6,6 +6,7 @@ from pynif3d.common.verification import check_in_options
 def normalize(x):
     """
     Normalizes an input vector.
+
     Args:
         x (np.array): Array containing the vector's coordinates.
 
@@ -17,7 +18,8 @@ def normalize(x):
 
 def radians(theta_deg):
     """
-    Converts an angle from degrees to radians
+    Converts an angle from degrees to radians.
+
     Args:
         theta_deg (float): Angle value in degrees.
 
@@ -31,6 +33,7 @@ def radians(theta_deg):
 def translation_mat(t, axis="z"):
     """
     Generates a translation matrix given an input translation vector.
+
     Args:
         t (float): Array containing the translation vector's coordinates.
         axis (str): Rotation axis ("x", "y" or "z"). Default is "z".
@@ -55,6 +58,7 @@ def translation_mat(t, axis="z"):
 def rotation_mat(angle, axis):
     """
     Creates a rotation matrix given an angle and a coordinate axis.
+
     Args:
         angle (float): Rotation angle (in radians).
         axis (str): Rotation axis ("x", "y" or "z").
