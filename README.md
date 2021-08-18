@@ -126,5 +126,5 @@ before submitting a pull request.
 ## Documentation
 
 Learn more about PyNIF3D by reading
-the [API documentation](http://pynif3d.readthedocs.org/).
+the [API documentation](http://pynif3d.readthedocs.io/en/latest/).
 
