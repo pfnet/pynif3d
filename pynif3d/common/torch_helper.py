@@ -6,9 +6,9 @@ from pynif3d.common.verification import check_equal, check_in_options, check_pos
 
 def normalize_coordinate(point, padding=0.1, plane="xz", eps=1e-5):
     """
-    The function to normalize coordinates to [0, 1], considering input within
-     the limits of `[-0.5 * (1 + padding), +0.5 * (1 + padding)]`.
-     The input limits are not strongly enforced.
+    The function to normalize coordinates to [0, 1], considering input within the limits
+    of `[-0.5 * (1 + padding), +0.5 * (1 + padding)]`. The input limits are not strongly
+    enforced.
 
     Args:
         point (Tensor): The tensor of the points to be normalized within given interval.
