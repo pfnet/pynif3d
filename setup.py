@@ -14,6 +14,8 @@ minimum_requirements = [
     "PyYAML>=5.3.1",
     "Cython>=0.29",
     "gdown>=3.10.0",
+    "m2r2==0.2.7",
+    "mistune==0.8.4",
     "torchvision",
 ]
 
