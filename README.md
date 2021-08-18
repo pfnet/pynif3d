@@ -1,6 +1,7 @@
 # PyNIF3D
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/pfnet/pynif3d/blob/master/LICENSE)
+[![Read the Docs](https://readthedocs.org/projects/pynif3d/badge/?version=latest)](https://pynif3d.readthedocs.io/en/latest/)
 
 PyNIF3D is an open-source PyTorch-based library for research on neural implicit
 functions (NIF)-based 3D geometry representation. It aims to accelerate research by 
